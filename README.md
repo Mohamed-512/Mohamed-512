@@ -10,13 +10,14 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mohamed here!
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Y4Y33T.png" alt="TryHackMe">
 
 A Software Engineer with knowledge in Mobile, and Backend Development, in addition to Cyber Security, and Machine Learning.
 
 <h2 align="left">I mainly code in...</h2>
 
 <p align="center">
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="C#" src="https://img.shields.io/badge/Csharp-%23121011.svg?style=for-the-badge&logo=Csharp&logoColor=white"/>
     <img alt="Dart" src="https://img.shields.io/badge/Dart-%23121011.svg?style=for-the-badge&logo=Dart&logoColor=white"/>
     <img alt="Java" src="https://img.shields.io/badge/Java-%23121011.svg?style=for-the-badge&logo=Java&logoColor=white"/>
