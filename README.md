@@ -10,7 +10,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mohamed here!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Y4Y33T.png" alt="TryHackMe">
+[<img src="https://tryhackme-badges.s3.amazonaws.com/Y4Y33T.png">](https://tryhackme.com/p/Y4Y33T)
 
 A Software Engineer with knowledge in Mobile, and Backend Development, in addition to Cyber Security, and Machine Learning.
 
